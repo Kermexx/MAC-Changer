@@ -22,3 +22,5 @@ Experimente e aproveite a facilidade de modificar o endereço MAC de sua interfa
 ## Observação
 
 Este script requer privilégios de superusuário (sudo) para alterar o endereço MAC da interface de rede. Certifique-se de fornecer a senha sudo quando solicitado para permitir que o script execute as alterações necessárias.
+
+Pode ser usado para se passar por algum outro computador para passar por algum fireall na rede que filtra endereços MAC; Pode ser usado para se anonimizar na rede.
