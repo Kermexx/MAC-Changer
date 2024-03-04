@@ -1,4 +1,4 @@
-#Usar no linux
+#!/usr/sbin/env python3
 
 import subprocess #usada para executar comandos externos do sistema operacional pelo Python
 import random # usado para gerar números aleatórios.
